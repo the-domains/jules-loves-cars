@@ -1,3 +1,4 @@
+layout_spectrum: 0.8998796883970499
 typography_spectrum: 0.7999898437410593
 color:
   brandStrength: 0.027479592943564057
@@ -10,6 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.8998796883970499
 name: Jules Loves Cars
-description: 'Ready To Ride? '
